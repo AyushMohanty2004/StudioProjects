@@ -13,7 +13,7 @@ void main(){
  var rollno = 7;//rollno is now static and it must have an integer value, which is identified by the IDE itself and not user defined
  rollno=9;//here no value other than an int can't be stored
 
- var phoneno;//dynamic allocation and data type is present i.e. any data type can be stored in phoneno
+ Object phoneno;//dynamic allocation and data type is present i.e. any data type can be stored in phoneno
 
  phoneno=9136;//an int value is stored in phoneno
  phoneno='Ayush';//changed to a string value
